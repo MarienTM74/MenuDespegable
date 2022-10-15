@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MenuDespegable</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Fragment</string>
+    <string name="Universal">Button</string>
+    <string name="Boton">BtnPrincipal</string>
+    <string name="button">BtnHome</string>
+    <string name="button1">Galeria</string>
+    <string name="Welcome">Bienvenidos a Home</string>
+    <string name="textview">Welcome to Home</string>
+    <string name="textview1">Welcome to home</string>
+</resources>
